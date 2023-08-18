@@ -1,0 +1,44 @@
+html{
+    height: 100%;
+}
+body{
+    background-color: #c0c0c0;
+}
+#button1{
+    height: 30px;
+    border-radius: 10px;
+    border-width: 3px;
+    margin: 25px;
+    border-color:#65973f ;
+    background-color: #65973f;
+}
+#button2{
+    height: 30px;
+    border-radius: 10px;
+    border-color:#65973f ;
+    background-color: #65973f;
+    margin-top: 200px;
+    margin-left: 30px;
+}
+input{
+    height: 30px;
+    border-radius: 10px;
+    border-color:#65973f ;
+    background-color: #65973f;
+    margin-top: 200px;
+    margin-left: 30px;
+}
+
+
+#valor{
+    height: 30px;
+    border-radius: 10px;
+    border-color:#65973f ;
+    background-color: #65973f;
+    margin-top: 200px;
+    margin-left: 30px;
+}
+P{
+    font-size: 30px;
+    font-family: 'Dosis', sans-serif;
+}
